@@ -4,6 +4,10 @@
     <Page id="page" title="{i18n>title}">
         <content>
         <Text text="Welcome to UI5 !"></Text>
+
+
+        <Label text="UserId"></Label>
+        <Input value=""></Input>
         </content>
     </Page>
 </mvc:View>
